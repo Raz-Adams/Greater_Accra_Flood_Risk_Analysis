@@ -15,7 +15,6 @@ The primary output of this project is a multi-page map series. This format was c
 
 **➡️ [Download the Full Map Series PDF Here](Flood_Risk_Analysis.pdf)**
 
-*(Note: You will need to upload your exported PDF and the sample PNG to your GitHub repository for this link to work.)*
 
 ---
 
